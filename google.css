@@ -1,0 +1,113 @@
+body{
+  background-color: rgb(0, 0, 75);
+}
+
+video{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 20px;
+  border-color: grey;
+  border-style: solid;
+}
+
+b{
+  color: lightblue;
+}
+
+a{
+  color:white;
+}
+
+em{
+  color: grey;
+}
+
+.site-links{
+  display: grid;
+  font-size:1.8rem;
+  grid-template-columns: repeat(3, 1fr);
+  list-style: none;
+  text-align:center
+}
+
+figcaption{
+  text-align: center;
+  font-family: 'Cormorant Garamond', serif;
+  color: rgb(255, 255, 255);
+  margin-top: 5px;
+}
+
+#image{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  text-align: center;
+
+  
+}
+
+em{
+  font-size: 50px;
+}
+
+li{
+  font-size: 30px;
+}
+
+#image2{
+  width: 100%;
+  max-width: 750px;
+  border-radius: 15px 30px;
+  border-color: white;
+  border-style:solid
+  
+}
+
+header{
+  font-family: "Playfair Display", serif;
+  height: 200px;
+  width: 100%;
+}
+
+#title{
+  background-color: rgb(0, 0, 75);
+  color:white;
+  text-align: center;
+  font-size: 50px;
+  width: fit-content;
+  position: relative;
+  top: 70px;
+  margin: auto;
+  margin-top: 60px;
+  margin-bottom: 80px;
+}
+
+#tribute-info{
+  max-width: 700px;
+  width: 90%;
+  margin: auto;
+}
+
+#quote{
+  font-family: 'playfair display SC', serif;
+  font-size: 40px;
+}
+
+.tribute{
+  font-family: 'playfair display', serif;
+  font-size: 20px;
+  text-align: center;
+}
+
+ul{
+  color:white;
+  font-family: 'cinzel', arial;
+  font-size: 20px;
+
+}
+
+h3{
+  color:white;
+}
